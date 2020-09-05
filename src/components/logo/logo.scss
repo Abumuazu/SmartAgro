@@ -1,0 +1,52 @@
+.logo {
+  height: 40vmin;
+  pointer-events: none;
+  color:#18243d
+}
+  // .FirstContainer {
+  //   text-align: center;
+  //   padding: 2rem;
+  // }
+  // .cont {
+  //   background-color: #eee;
+  //   box-shadow: 1px 1px 1px #fffafa;
+  //   width: 100px;
+  //   display: inline-block;
+  //   @media screen and (max-width: 768px) {
+  //     display: block;
+  //     margin: 0 auto;
+  //     width: 70vw;
+  //   }
+  //   padding: 1.5rem;
+  //   height: 60vh;
+  //   width: 45vw;
+  //   text-align: center;
+  //   color: #000000;
+  //   font-family: arial, sans-serif;
+  // }
+  // .cont1 {
+  //   border-right: 2px solid #09f755;
+  // }
+  // .cont2 {
+  // }
+@media (prefers-reduced-motion: no-preference) {
+  .logo {
+    animation: logo-spin infinite 10s linear;
+  }
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.logo-container {
+  width: 0.5rem;
+  height: 0.5rem;
+  position: absolute;
+  top: 0;
+  left: 0;
+}

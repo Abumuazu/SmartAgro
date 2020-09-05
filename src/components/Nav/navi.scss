@@ -1,0 +1,116 @@
+p {
+  flex-direction: row;
+}
+// .grid {
+//   display: grid;
+//   grid-template-columns: 150px auto 150px;
+//   grid-template-rows: repeat(3, 100px);
+//   grid-gap: 1em;
+// }
+
+// header,
+// aside,
+// article,
+// footer,
+// h4 {
+//   padding: 1em;
+// }
+
+// header,
+// footer {
+//   grid-column: 1 / 4;
+// }
+
+// /* Demo Specific Styles */
+// body {
+//   margin: 0 auto;
+//   max-width: 56em;
+//   padding: 1em 0;
+// }
+
+// .grid > * {
+//   display: flex;
+//   align-items: center;
+//   justify-content: center;
+// }
+
+// .bigContainer {
+//   position: fixed;
+//   top: 0;
+//   left: 0;
+//   z-index: 1;
+//   display: grid;
+//   grid-template-columns: repeat(auto-fit, minmax(35rem, 1fr));
+//   grid-gap: 4rem;
+// }
+// .container-wrapper {
+//   position: absolute;
+//   top: 0;
+//   left: 0;
+//   z-index: 1;
+//   display: flex;
+// }
+// .box {
+//   background-color: blue;
+//   width: calc(100vw / 4);
+//   height: 0vh;
+// }m
+// .mobile-logo {
+//   position: absolute;
+//   top: 4rem;
+//   left: 4rem;
+//   z-index: 2;
+//   filter: brightness(1%);
+// }
+// .content {
+//   width: 95vw;
+//   position: absolute;
+
+//   left: 4rem;
+//   z-index: 2;
+//   display: grid;
+//   grid-template-columns: repeat(auto-fit, minmax(35rem, 1fr));
+//   grid-gap: 4rem;
+//   padding: 4rem;
+//   color: black;
+// }
+// .contentBox {
+//   display: flex;
+//   flex-direction: column;
+//   justify-content: space-between;
+//   min-height: 17rem;
+// }
+// .socialLinks {
+//   display: flex;
+//   flex-direction: column;
+// }
+// .socialLinksBox {
+//   display: flex;
+//   align-items: center;
+// }
+// img {
+//   margin-right: 2rem;
+//   height: 1.7rem;
+//   filter: brightness(1%);
+// }
+
+// .resume {
+//   font-size: 3rem;
+//   text-decoration: none;
+//   color: black;
+//   // font-family: $tertiary-font;
+//   letter-spacing: -2px;
+//   align-self: flex-start;
+//   transition: all 0.2s ease-in-out;
+// }
+// .resume:hover {
+//   letter-spacing: 3px;
+// }
+// .list {
+//   justify-self: flex-start;
+// }
+// .listItem {
+//   list-style: none;
+// }
+
+// import "../Nav/navi.scss";
