@@ -35,7 +35,6 @@ const StyleBodyOne = styled.div`
   }
   .innerContainer {
     width: 75vw;
-
     margin: auto;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(28rem, 1fr));
