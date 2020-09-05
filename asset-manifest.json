@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/SmartAgro/static/css/main.e589fa22.chunk.css",
+    "main.js": "/SmartAgro/static/js/main.2c78c1d9.chunk.js",
+    "main.js.map": "/SmartAgro/static/js/main.2c78c1d9.chunk.js.map",
+    "runtime-main.js": "/SmartAgro/static/js/runtime-main.8e50e456.js",
+    "runtime-main.js.map": "/SmartAgro/static/js/runtime-main.8e50e456.js.map",
+    "static/js/2.417fb6c7.chunk.js": "/SmartAgro/static/js/2.417fb6c7.chunk.js",
+    "static/js/2.417fb6c7.chunk.js.map": "/SmartAgro/static/js/2.417fb6c7.chunk.js.map",
+    "index.html": "/SmartAgro/index.html",
+    "precache-manifest.aad0b9f914c10ca261a55e9a16c5d9c7.js": "/SmartAgro/precache-manifest.aad0b9f914c10ca261a55e9a16c5d9c7.js",
+    "service-worker.js": "/SmartAgro/service-worker.js",
+    "static/css/main.e589fa22.chunk.css.map": "/SmartAgro/static/css/main.e589fa22.chunk.css.map",
+    "static/js/2.417fb6c7.chunk.js.LICENSE.txt": "/SmartAgro/static/js/2.417fb6c7.chunk.js.LICENSE.txt",
+    "static/media/header.css": "/SmartAgro/static/media/agriculture-1822530_1920.744a9106.jpg",
+    "static/media/github.svg": "/SmartAgro/static/media/github.ad052847.svg",
+    "static/media/instagram.svg": "/SmartAgro/static/media/instagram.bd965c81.svg",
+    "static/media/linkedin.svg": "/SmartAgro/static/media/linkedin.12e9c34e.svg",
+    "static/media/twitter.svg": "/SmartAgro/static/media/twitter.c4c914f8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e50e456.js",
+    "static/js/2.417fb6c7.chunk.js",
+    "static/css/main.e589fa22.chunk.css",
+    "static/js/main.2c78c1d9.chunk.js"
+  ]
+}
