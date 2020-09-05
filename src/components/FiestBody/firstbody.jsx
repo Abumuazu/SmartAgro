@@ -71,6 +71,7 @@ const Dive = styled.div`
     width: 30%;
     @media screen and (max-width: 768px) {
       width: 70%;
+      left: 28%;
     }
   }
 

@@ -33,7 +33,7 @@ const StyleBodyOne = styled.div`
       transform: translate(1rem);
     }
   }
-  .innerContainer {
+  .innerContainer1 {
     width: 75vw;
     margin: auto;
     display: grid;
@@ -149,7 +149,7 @@ const BodyOne = ({ onRouteChange }) => {
           </div>
         </div>
         <div className="container">
-          <div className="innerContainer">
+          <div className="innerContainer1">
             <article>
               <div className="article">
                 <h1>Invest in Oil Palm now</h1>
