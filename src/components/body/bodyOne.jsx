@@ -5,9 +5,9 @@ const StyleBodyOne = styled.div`
     min-height: 90vh;
     margin: 0 auto;
     background-color: $ffffff;
-    padding: 5rem 10rem 5rem 10rem;
+    padding: 5rem 2rem 5rem 2rem;
     @media screen and (max-width: 600px) {
-      padding: 5rem 3rem 5rem 3rem;
+      padding: 5rem 2rem 5rem 2rem;
     }
   }
   article {
@@ -34,7 +34,8 @@ const StyleBodyOne = styled.div`
     }
   }
   .innerContainer {
-    width: 50vw;
+    width: 75vw;
+
     margin: auto;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(28rem, 1fr));
@@ -69,7 +70,7 @@ const StyleBodyOne = styled.div`
       background: transparent;
       border: 1px solid #333;
       color: #333;
-      top: 29rem;
+      top: 28rem;
     }
     background-size: 200% 100%;
     background-position: right bottom;
